@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi there, I'm Faqih! 👋
+I'm a Mobile Developer enthusiast specializing in Flutter & Android Native.
 
-<!--
-**Faqih472/Faqih472** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Featured Projects (Proyek Unggulan)
+*Aplikasi skala penuh yang saya kembangkan untuk kebutuhan bisnis dan utilitas.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🧺 Ez Laundry** | Aplikasi manajemen pesanan laundry & kasir. | `Dart` `Firebase` |
+| **📖 Nurani Qur'an** | Aplikasi Al-Qur'an digital dengan audio. | `Flutter` `API` |
+
+---
+
+### 🛠️ Technical Experiments & Coursework (Praktikum & Riset)
+*Repository ini berisi eksperimen teknis, tugas kuliah, dan eksplorasi fitur spesifik.*
+
+**Camera & Multimedia:**
+* `camera-filter-effects` - Eksperimen filter kamera real-time (mirip IG).
+* `android-camera-basic` - Implementasi dasar kamera native.
+* `custom-camera-filters` - Custom shader research.
+
+**Fundamental & Logic:**
+* `flutter-stream-builder-demo` - Implementasi state management reactive.
+* `master-plan-scheduler` - Algoritma penjadwalan sederhana.
+* `book-catalog-app` - CRUD data buku sederhana.
+
+---
