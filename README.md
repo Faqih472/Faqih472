@@ -1,29 +1,42 @@
 ### Hi there, I'm Faqih! 👋
-I'm a Mobile Developer enthusiast specializing in Flutter & Android Native.
+I'm a Mobile Developer enthusiast specializing in **Flutter** & **Android Native**.
 
 ---
 
-### 🚀 Featured Projects (Proyek Unggulan)
-*Aplikasi skala penuh yang saya kembangkan untuk kebutuhan bisnis dan utilitas.*
+### 🚀 Featured Projects
+*Full-scale applications I developed for business and utility purposes.*
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🧺 Ez Laundry** | Aplikasi manajemen pesanan laundry & kasir. | `Dart` `Firebase` |
-| **📖 Nurani Qur'an** | Aplikasi Al-Qur'an digital dengan audio. | `Flutter` `API` |
+| **🧺 Ez Laundry** | Laundry order management & POS application. | `Dart` `Firebase` |
+| **📖 Nurani Qur'an** | Digital Al-Qur'an app with audio support. | `Flutter` `API` |
+| **📝 Clever Note Pad** | Android note-taking application with dark mode, undo/redo, and local storage. | `Flutter` `Hive` |
 
 ---
 
-### 🛠️ Technical Experiments & Coursework (Praktikum & Riset)
-*Repository ini berisi eksperimen teknis, tugas kuliah, dan eksplorasi fitur spesifik.*
+### 🛠️ Technical Experiments & Coursework
+*This section contains technical experiments, academic projects, and feature explorations.*
 
-**Camera & Multimedia:**
-* `camera-filter-effects` - Eksperimen filter kamera real-time (mirip IG).
-* `android-camera-basic` - Implementasi dasar kamera native.
-* `custom-camera-filters` - Custom shader research.
+#### Camera & Multimedia
+- `camera-filter-effects` — Real-time camera filter experiments (Instagram-like effects).  
+- `android-camera-basic` — Basic native camera implementation.  
+- `custom-camera-filters` — Research on custom shaders for camera effects.  
 
-**Fundamental & Logic:**
-* `flutter-stream-builder-demo` - Implementasi state management reactive.
-* `master-plan-scheduler` - Algoritma penjadwalan sederhana.
-* `book-catalog-app` - CRUD data buku sederhana.
+#### Fundamental & Logic
+- `flutter-stream-builder-demo` — Reactive state management implementation using StreamBuilder.  
+- `master-plan-scheduler` — Simple scheduling algorithm project.  
+- `book-catalog-app` — Basic CRUD operations for book data.  
 
 ---
+
+### 📌 Notes
+- All projects focus on **Flutter**, **Android Native**, and basic **API integration**.  
+- Some repositories are experimental or created for academic purposes.  
+- Feel free to explore, fork, or contribute!  
+
+---
+
+### 📫 Connect with Me
+- GitHub: [Faqih472](https://github.com/Faqih472)  
+- LinkedIn: [Your LinkedIn URL]  
+- Email: [your.email@example.com]  
