@@ -49,6 +49,16 @@ Full-scale applications I developed for business, utility, and AI integration.
 
 ---
 
+### 📊 GitHub Stats & Activity
+
+**Commit Activity Graph (Daily Contributions):**  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Faqih472&theme=react-dark&hide_border=true)
+
+**GitHub Stats Card:**  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Faqih472&show_icons=true&theme=radical)
+
+---
+
 ### 📫 Connect with Me
 - GitHub: [Faqih472](https://github.com/Faqih472)
 - LinkedIn: [Muhammad Izzudin Al Faqih
