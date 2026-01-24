@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Faqih!
 I'm a Mobile Developer enthusiast specializing in **Flutter** & **Android Native**.  
-<span> Flying through code, one app at a time!</span>
+Flying through code, one app at a time!
 
 ---
 
@@ -23,45 +23,50 @@ Full-scale applications I developed for business, utility, and AI integration.
   Android note-taking app with dark mode, undo/redo, and local storage.  
   **Tech Stack:** `Flutter` `Hive`  
 
-
-
 ---
 
-### 🛠️ Technical Experiments & Coursework
+## 🛠️ Technical Experiments & Coursework
 *This section contains technical experiments, academic projects, and feature explorations.*
 
-#### Camera & Multimedia
-- `camera-filter-effects` — Real-time camera filter experiments (Instagram-like effects).
-- `android-camera-basic` — Basic native camera implementation.
-- `custom-camera-filters` — Research on custom shaders for camera effects.
+### Camera & Multimedia
+- `camera-filter-effects` — Real-time camera filter experiments (Instagram-like effects)  
+- `android-camera-basic` — Basic native camera implementation  
+- `custom-camera-filters` — Research on custom shaders for camera effects  
 
-#### Fundamental & Logic
-- `flutter-stream-builder-demo` — Reactive state management implementation using StreamBuilder.
-- `master-plan-scheduler` — Simple scheduling algorithm project.
-- `book-catalog-app` — Basic CRUD operations for book data.
-
----
-
-### 📌 Notes
-- All projects focus on **Flutter**, **Android Native**, and **API integration**.
-- **VoxMod** demonstrates implementation of Client-Server architecture with AI inference.
-- Feel free to explore, fork, or contribute!
+### Fundamental & Logic
+- `flutter-stream-builder-demo` — Reactive state management implementation using StreamBuilder  
+- `master-plan-scheduler` — Simple scheduling algorithm project  
+- `book-catalog-app` — Basic CRUD operations for book data  
 
 ---
 
-### 📊 GitHub Stats & Activity
+## 🛠️ Skills
+**Mobile & Frontend:** `Flutter` `Dart` `Kotlin` `Android Native` `HTML` `CSS` `Bootstrap`  
+**Backend & Database:** `Laravel` `Python` `Firebase` `Supabase` `SQL` `VB.NET`  
+**Game & Interactive:** `Unity` `Unreal Engine 5` `Blueprint (BP)` `C#` `C++` `Blender 3D`  
+**Tools & Workflow:** `Git` `GitHub` `VSCode` `Gradle`  
+**Scripting & Web:** `JavaScript`  
+
+---
+
+## 📌 Notes
+- All projects focus on **Flutter**, **Android Native**, and **API integration**  
+- **VoxMod** demonstrates implementation of Client-Server architecture with AI inference  
+- Feel free to explore, fork, or contribute!  
+
+---
+
+## 📊 GitHub Stats & Activity
 
 **Commit Activity Graph (Daily Contributions):**  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Faqih472&theme=react-dark&hide_border=true)
-
 
 **GitHub Stats Card:**  
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Faqih472&show_icons=true&theme=radical)
 
 ---
 
-### 📫 Connect with Me
-- GitHub: [Faqih472](https://github.com/Faqih472)
-- LinkedIn: [Muhammad Izzudin Al Faqih
-](https://www.linkedin.com/in/muhammad-izzudin-al-faqih-420b331b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+## 📫 Connect with Me
+- GitHub: [Faqih472](https://github.com/Faqih472)  
+- LinkedIn: [Muhammad Izzudin Al Faqih](https://www.linkedin.com/in/muhammad-izzudin-al-faqih-420b331b1/)  
 - Email: mfaqih47289@gmail.com
