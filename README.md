@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Faqih!
 I'm a Mobile Developer enthusiast specializing in **Flutter** & **Android Native**.  
-<span>✈️ Flying through code, one app at a time!</span>
+<span> Flying through code, one app at a time!</span>
 
 ---
 
