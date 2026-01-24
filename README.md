@@ -102,6 +102,7 @@ Full-scale applications I developed for business, utility, and AI integration.
 ---
 
 ## 📫 Connect with Me
+[![Website](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=googlesitekit&logoColor=white)](upcoming)
 - GitHub: [Faqih472](https://github.com/Faqih472)  
 - LinkedIn: [Muhammad Izzudin Al Faqih](https://www.linkedin.com/in/muhammad-izzudin-al-faqih-420b331b1/)  
 - Email: mfaqih47289@gmail.com
