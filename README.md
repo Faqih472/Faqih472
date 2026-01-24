@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200" alt="Wave Animation" />
-</p>
-
 # 👋 Hi there, I'm Faqih!
 I'm a Mobile Developer enthusiast specializing in **Flutter** & **Android Native**.  
 <span>✈️ Flying through code, one app at a time!</span>
