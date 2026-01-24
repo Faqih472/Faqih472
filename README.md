@@ -8,7 +8,7 @@ I'm a Mobile Developer enthusiast specializing in **Flutter** & **Android Native
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🎙️ VoxMod** | AI Voice Changer App using RVC models to transform user voice into Anime/Vtuber characters (Keqing, Klee, Zeta). | `Flutter` `FastAPI` `PyTorch` |
+| **🎙️ VoxMod** | AI Voice Changer app that lets users transform their voice into Anime/Vtuber characters like Keqing, Klee, or Zeta. Features include a studio mode with real-time audio visualizer, dynamic pitch adjustment, and regenerate logic to edit pitch without re-recording. Backend is powered by RVC (Retrieval-based Voice Conversion) and FastAPI, while the mobile client is built in Flutter with smooth UI and interactive audio controls. | `Flutter` `FastAPI` `PyTorch` |
 | **🧺 Ez Laundry** | Laundry order management & POS application. | `Dart` `Firebase` |
 | **📖 Nurani Qur'an** | Digital Al-Qur'an app with audio support. | `Flutter` `API` |
 | **📝 Clever Note Pad** | Android note-taking application with dark mode, undo/redo, and local storage. | `Flutter` `Hive` |
