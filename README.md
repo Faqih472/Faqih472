@@ -3,9 +3,6 @@ I'm a Mobile Developer enthusiast specializing in **Flutter** & **Android Native
 
 ---
 
-## 🚀 Featured Projects
-Full-scale applications I developed for business, utility, and AI integration.
-
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | [🎙️ VoxMod](https://github.com/Faqih472/voxmod-voice-studio) | AI Voice Changer app. Transform your voice to Anime & Vtuber characters. FastAPI backend with RVC, dynamic pitch, Flutter client with interactive UI. | `Flutter` `FastAPI` `PyTorch` |
