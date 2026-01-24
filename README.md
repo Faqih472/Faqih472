@@ -1,6 +1,11 @@
 # 👋 Hi there, I'm Faqih!
-I'm a Mobile Developer enthusiast specializing in **Flutter** & **Android Native**.  
-Flying through code, one app at a time!
+
+I'm a passionate developer and 3D enthusiast, currently exploring the world of **mobile, web, and PC applications**, but with my eyes firmly set on **game development and 3D arts**. My journey started with **mobile development using Flutter and Android Native**, creating apps that solve real-world problems and integrate with APIs, but over time I discovered my true passion: **building immersive games, interactive experiences, and digital art worlds**.
+
+I love diving into **Unity, Unreal Engine, Blender**, and exploring **C#, C++, and Blueprint scripting** to bring my creative visions to life. While I still enjoy developing mobile apps and dabbling in web technologies, my main focus is crafting **3D games, animations, and visually stunning experiences**. I aim to merge **coding, creativity, and art**, building experiences that are both fun and technically polished.
+
+In short: I’m a developer, an artist, and a gamer at heart — turning code into **interactive worlds** and ideas into **digital realities**. 🚀
+
 
 ---
 
