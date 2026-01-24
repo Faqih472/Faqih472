@@ -4,7 +4,7 @@ I'm a developer and 3D enthusiast passionate about **game development, 3D art, a
 
 In short: I turn code and creativity into **immersive worlds and digital experiences**. 🚀
 
-
+- Feel free to explore, fork, or contribute!  
 
 ---
 
@@ -79,14 +79,6 @@ Full-scale applications I developed for business, utility, and AI integration.
 
 ### Scripting & Web
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
----
-
-## 📌 Notes
-- All projects focus on **Flutter**, **Android Native**, and **API integration**  
-- **VoxMod** demonstrates implementation of Client-Server architecture with AI inference  
-- Feel free to explore, fork, or contribute!  
 
 ---
 
