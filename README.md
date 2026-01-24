@@ -39,5 +39,6 @@ I'm a Mobile Developer enthusiast specializing in **Flutter** & **Android Native
 
 ### 📫 Connect with Me
 - GitHub: [Faqih472](https://github.com/Faqih472)
-- LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/muhammad-izzudin-al-faqih-420b331b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [Muhammad Izzudin Al Faqih
+](https://www.linkedin.com/in/muhammad-izzudin-al-faqih-420b331b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email: mfaqih47289@gmail.com
