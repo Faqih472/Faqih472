@@ -14,6 +14,7 @@ Full-scale applications I developed for business, utility, and AI integration.
 | [📝 Clever Note Pad](https://github.com/Faqih472/clever-note-pad) | Android note app with dark mode, undo/redo, and local storage. | `Flutter` `Hive` |
 
 
+
 ---
 
 ### 🛠️ Technical Experiments & Coursework
