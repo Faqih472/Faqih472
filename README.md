@@ -3,15 +3,15 @@ I'm a Mobile Developer enthusiast specializing in **Flutter** & **Android Native
 
 ---
 
-### 🚀 Featured Projects
-*Full-scale applications I developed for business, utility, and AI integration.*
+## 🚀 Featured Projects
+Full-scale applications I developed for business, utility, and AI integration.
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🎙️ VoxMod** | AI Voice Changer app that lets users transform their voice into various characters, including Anime and Vtuber models like Keqing, Klee, or Zeta. Users record their voice, send it to the backend powered by RVC (Retrieval-based Voice Conversion) via FastAPI, and receive the converted audio. Features include dynamic pitch adjustment, regenerate logic to edit pitch without re-recording, and a Flutter mobile client with smooth UI and interactive audio controls. | `Flutter` `FastAPI` `PyTorch` |
+| **🎙️ VoxMod** | AI Voice Changer app allowing users to transform their voice into characters like Anime & Vtuber models (Keqing, Klee, Zeta). Users record their voice, send it to a FastAPI backend powered by RVC (Retrieval-based Voice Conversion), and receive the converted audio. Features dynamic pitch adjustment and regenerate logic without re-recording, plus a Flutter mobile client with smooth UI and interactive audio controls. | `Flutter` `FastAPI` `PyTorch` |
 | **🧺 Ez Laundry** | Laundry order management & POS application. | `Dart` `Firebase` |
 | **📖 Nurani Qur'an** | Digital Al-Qur'an app with audio support. | `Flutter` `API` |
-| **📝 Clever Note Pad** | Android note-taking application with dark mode, undo/redo, and local storage. | `Flutter` `Hive` |
+| **📝 Clever Note Pad** | Android note-taking app with dark mode, undo/redo, and local storage. | `Flutter` `Hive` |
 
 ---
 
