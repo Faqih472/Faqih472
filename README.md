@@ -8,10 +8,10 @@ Full-scale applications I developed for business, utility, and AI integration.
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [🎙️ VoxMod](https://github.com/Faqih472/voxmod-voice-studio) | AI Voice Changer app allowing users to transform their voice into characters like Anime & Vtuber models (Keqing, Klee, Zeta). Users record their voice, send it to a FastAPI backend powered by RVC (Retrieval-based Voice Conversion), and receive the converted audio. Features dynamic pitch adjustment and regenerate logic without re-recording, plus a Flutter mobile client with smooth UI and interactive audio controls. | `Flutter` `FastAPI` `PyTorch` |
-| [🧺 Ez Laundry](https://github.com/Faqih472/ez-laundry-app) | Laundry order management & POS application. | `Dart` `Firebase` |
-| [📖 Nurani Qur'an](https://github.com/Faqih472/nurani-quran-app) | Digital Al-Qur'an app with audio support. | `Flutter` `API` |
-| [📝 Clever Note Pad](https://github.com/Faqih472/clever-note-pad) | Android note-taking app with dark mode, undo/redo, and local storage. | `Flutter` `Hive` |
+| [🎙️   VoxMod](https://github.com/Faqih472/voxmod-voice-studio) | AI Voice Changer app allowing users to transform their voice into characters like Anime & Vtuber models (Keqing, Klee, Zeta). Users record their voice, send it to a FastAPI backend powered by RVC (Retrieval-based Voice Conversion), and receive the converted audio. Features dynamic pitch adjustment and regenerate logic without re-recording, plus a Flutter mobile client with smooth UI and interactive audio controls. | `Flutter` `FastAPI` `PyTorch` |
+| [🧺   Ez Laundry](https://github.com/Faqih472/ez-laundry-app) | Laundry order management & POS application. | `Dart` `Firebase` |
+| [📖   Nurani Qur'an](https://github.com/Faqih472/nurani-quran-app) | Digital Al-Qur'an app with audio support. | `Flutter` `API` |
+| [📝   Clever Note Pad](https://github.com/Faqih472/clever-note-pad) | Android note-taking app with dark mode, undo/redo, and local storage. | `Flutter` `Hive` |
 
 
 ---
