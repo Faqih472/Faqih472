@@ -88,7 +88,7 @@ Full-scale applications I developed for business, utility, and AI integration.
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Faqih472&theme=react-dark&hide_border=true)
 
 **GitHub Stats Card:**  
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=faqih472&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=faqih472&show_icons=true&theme=radical&count_private=true)
 
 ---
 
