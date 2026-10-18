@@ -1,10 +1,18 @@
-# 👋 Hi there, I'm Faqih!
+# Hi, I'm Faqih!
 
-I'm a developer and 3D enthusiast passionate about **game development, 3D art, and interactive experiences**. I started with **mobile apps** using Flutter and Android Native, but now I focus on **Unity, Unreal Engine, Blender**, and coding with **C#, C++, and Blueprint** to bring creative ideas to life.  
+I'm a **Game Developer and 3D Artist** focused on building interactive experiences through programming and digital art.
 
-In short: I turn code and creativity into **immersive worlds and digital experiences**. 🚀
+My primary interests are **C++ programming, game development, and 3D art using Blender**. I also explore software development across mobile, desktop, web, and AI-powered applications.
 
-- Feel free to explore, fork, or contribute!  
+I use AI-assisted development to prototype ideas, build practical applications, and explore different technologies, while continuing to strengthen my core programming skills and technical expertise.
+
+**My focus:** Game Development, C++, and 3D Art.
+
+- 🎮 Game Development — C++, Unity, Unreal Engine
+- 💻 Software Development — Flutter, Python, Web Technologies
+- 🎨 3D Art — Blender, Modeling, and Interactive Assets
+
+Explore my projects, experiments, and creative work below!
 
 ---
 
