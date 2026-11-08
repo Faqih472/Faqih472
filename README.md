@@ -1,24 +1,5 @@
 # Hi, I'm Faqih!  
 
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⡛⡛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢀⢠⣤⡀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠘⠿⠟⣡⡆⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡦⠉⠹⠯⡀⠀⣼⠷⠏⠻⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢁⢳⠀⣠⢎⠁⠡⢦⠃⠀⠹⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠓⢀⣀⡁⡀⠀⠀⡄⡄⢐⠀⠽⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⡄⠘⢘⢞⡅⣇⠀⠈⢙⣂⡄⢻⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠁⠀⠱⣸⢻⠻⠃⠀⠙⠫⣷⡄⢋⠉⢿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⠋⢀⠁⠀⠀⢬⣋⣀⣀⣀⠀⠀⢀⡴⣷⡇⠘⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⠰⣘⠀⠀⠀⠠⣄⢤⣤⡴⠀⣠⣫⣾⣿⡗⠀⢿
-⣿⣿⣿⣿⣿⣿⣿⣏⡙⠂⠀⡘⡖⢠⣉⠠⠴⢂⡜⣵⣿⣿⣿⡇⢀⢸
-⣿⣿⣿⣿⣿⣿⣿⠍⠈⠀⠀⠀⠀⠁⢸⠍⢀⡞⣼⣿⣿⣿⣿⡇⡄⢸
-⣿⣿⣿⡟⠿⢟⢅⣴⡆⠘⠢⠀⡸⠀⠈⢀⣾⣹⣿⣿⣿⣿⣿⡅⠀⢸
-⣿⣿⣻⠾⣠⡰⣿⣿⠃⢀⣄⡁⠃⠀⡀⣸⠇⣿⣿⣿⣿⣿⡯⠀⠀⣸
-⢲⠟⣡⣾⣻⣾⣏⠉⡀⠐⠿⠁⢀⣾⣥⣿⡚⠒⠾⣽⡿⣿⠱⢂⢄⣿
-⣥⠾⣛⣋⣿⣿⠃⣆⡆⢁⣤⢰⣿⣿⣿⣿⣿⣆⠀⠀⠙⡌⣪⠿⠿⠿
-⣶⣿⣿⣿⣿⣯⢦⣉⣁⡈⠂⣿⣿⣿⣿⣿⣿⣿⠜⠒⠀⣠⢻⣶⣶⣶
-
-#
 I'm a **Game Developer and 3D Artist** focused on building interactive experiences through programming and digital art.
 
 My primary interests are **C++ programming, game development, and 3D art using Blender**. I also explore software development across mobile, desktop, web, and AI-powered applications.
